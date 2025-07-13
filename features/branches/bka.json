@@ -1,0 +1,144 @@
+[
+    {
+        "Themes": {
+            "summary": "Monet, fonts, icons",
+            "Monet": {
+                "Monet settings": "Customize Android's built-in theme engine"
+            },
+            "General": {
+                "Notification style": "Set notification style",
+                "Power menu style": "Set power menu style",
+                "Progress bar style": "Set progress bar style"
+            },
+            "Audio": {
+                "Lock sound": "Set lock sound",
+                "Unlock sound": "Set unlock sound"
+            },
+            "Fonts": {
+                "System font": "Set system font style"
+            },
+            "Pixel Launcher": {
+                "More themed icons": "Extends support for dynamic color themed icons for installed apps"
+            },
+            "Icons": {
+                "System Icons": "Set system icon style",
+                "Icon shape": "Set system icon shape",
+                "Signal icon": "Set signal icon style",
+                "Wi-Fi icon": "Set Wi-Fi icon style",
+                "Navigation bar icons": "Set navigation bar icon style"
+            },
+            "Animations": {
+                "Boot animation": "Set boot animation style",
+                "Charging animation": "Display an animation when the device is plugged in",
+                "Screen off animation": "Set screen off animation"
+            }
+        }
+    },
+    {
+        "Lock screen": {
+            "summary": "Interface, miscellaneous",
+            "Interface": {
+                "Media cover art": "Display media cover art when available",
+                "Charging stats": "Display current, voltage, wattage, and temperature stats while charging",
+                "Carrier name on lock screen": "Display carrier name on lock screen status bar"
+            },
+            "Fingerprint": {
+                "Ripple animation": "Show ripple animation when unlocked with fingerprint",
+                "Authentication success vibration": "Vibrate when fingerprint authentication is successful",
+                "Authentication error vibration": "Vibrate when fingerprint authentication fails"
+            }
+        }
+    },
+    {
+        "Status bar": {
+            "summary": "Gestures, Icons, privacy indicators",
+            "Gestures": {
+                "Brightness control": "Adjust brightness by swiping across the status bar",
+                "Quick pull down": "Pull down quicksettings with a single swipe"
+            },
+            "Icons": {
+                "Status bar tuner": "Choose which system icons can be shown",
+                "Clock & date": "Customize clock & date",
+                "Network traffic monitor": "Display and customize current network traffic levels",
+                "Status bar action chip": "Status bar action chip options",
+                "Battery style": "Set battery style",
+                "Battery percent": "Set battery percent style",
+                "Battery percentage when charging": "Always display battery percentage when charging",
+                "Logo": "Display a custom logo on the status bar",
+                "Logo position": "Set status bar logo postion",
+                "Logo style": "Set status bar logo style",
+                "Data disabled indicator": "Display an indicator next to signal icon when data is disabled",
+                "4G icon": "Replace 'LTE' icon with '4G'",
+                "Wi-Fi standard": "Display Wi-Fi standard next the Wi-Fi icon",
+                "Bluetooth battery status": "Display battery status for the connected Bluetooth device, if available"
+            },
+            "Privacy indicators": {
+                "Microphone & camera": "Display an indicator when an app accesses the microphone or camera",
+                "Location": "Display an indicator when an app accesses your location",
+                "Screen projection": "Display an indicator when the screen is being projected"
+            }
+        }
+    },
+    {
+        "Quick settings": {
+            "summary": "Interface, lock screen",
+            "Interface": {
+                "Show squiggle animation": "Show media panel squiggle animation",
+                "Battery style": "Set quicksettings battery style",
+                "Battery percent": "Set quicksettings battery percent location"
+            },
+            "Lock screen": {
+                "Swipe down QS on secure lock screen": "Enable or disable quicksettings on lockscreen"
+            },
+            "Miscellaneous": {
+                "Bluetooth tile dialog": "Show bluetooth dialog or toggle bluetooth state on tapping bluetooth tile"
+            }
+        }
+    },
+    {
+        "Notifications": {
+            "summary": "Alerts, interface",
+            "Heads up": {
+                "Heads-up": "Display priority notifications in a small floating window",
+                "Compact heads-up": "Display notifications in compact size",
+                "Less boring": "Display popup notifications only for alarm, dialer and messaging app"
+            },
+            "Interface": {
+                "Alert slider notifications": "Display notification when changing alert slider position"
+            },
+            "Sounds & vibration": {
+                "Alert while display on": "Play sound and vibration for notifications while the display is on"
+            }
+        }
+    },
+    {
+        "Power menu": {
+            "summary": "Actions, lock screen",
+            "Interface": {
+                "Power menu actions": "Choose which actions are displayed"
+            },
+            "Lock screen": {
+                "Show on secure lock screen": "Show the power menu while the device is locked"
+            }
+        }
+    },
+    {
+        "Miscellaneous": {
+            "summary": "Developer options, spoofing",
+            "Spoofing": {
+                "Component spoofing": "Bypass app restrictions by spoofing components"
+            },
+            "Developer options": {
+                "Hide applist": "Prevent apps from checking selected apps from appslist",
+                "USB configuration": "Choose the default behavior when connected to a device via USB",
+                "Hide developer status": "Hide developer status from apps",
+                "No storage restrict": "Remove the restriction when selecting folders through Storage Access Framework. Can be convenient in some cases but may lead to privacy leaks.",
+                "Ignore wallpaper dimming requests": "Blocks all apps from setting the wallpaper dim",
+                "Unlimit screenrecord": "Remove the 15GiB file size limit",
+                "Hide screen capture status": "Hide screen capture and screen record status from all applications. Can be convenient in some cases but may lead to privacy leaks. Need to restart applications for the change to take effect.",
+                "Allow application downgrade": "Allow downgrading system applications, which may result in crashes and data loss",
+                "Ignore window secure flags": "Remove restrictions on screenshots and screen recordings for all applications, potentially risking privacy leaks"
+            }
+        }
+    }
+]

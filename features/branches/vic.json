@@ -1,0 +1,201 @@
+[
+    {
+        "Themes": {
+            "summary": "Monet, fonts, icons",
+            "Monet": {
+                "Monet settings": "Customize Android's built-in theme engine"
+            },
+            "General": {
+                "Wallpaper styles": "Configure wallpaper styles and settings",
+                "Brightness slider style": "Set brightness slider style",
+                "Notification style": "Set notification style",
+                "Power menu style": "Set power menu style",
+                "Progress bar style": "Set progress bar style",
+                "Volume panel styles": "Set Voulume panel style"
+            },
+            "Audio": {
+                "Lock sound": "Set lock sound",
+                "Unlock sound": "Set unlock sound"
+            },
+            "Fonts": {
+                "System font": "Set system font style"
+            },
+            "Pixel Launcher": {
+                "Background blur": "Enable blur effect for recent items page background",
+                "More themed icons": "Extends support for dynamic color themed icons for installed apps"
+            },
+            "Icons": {
+                "System Icons": "Set system icon style",
+                "Icon shape": "Set system icon shape",
+                "Signal icon": "Set signal icon style",
+                "Wi-Fi icon": "Set Wi-Fi icon style",
+                "Navigation bar icons": "Set navigation bar icon style",
+                "UDFPS icon": "Set UDFPS icon style"
+            },
+            "Animations": {
+                "Boot animation": "Set boot animation style",
+                "Charging animation": "Display an animation when the device is plugged in",
+                "Screen off animation": "Set screen off animation",
+                "UDFPS animation": "Set UDFPS animation style"
+            }
+        }
+    },
+    {
+        "Lock screen": {
+            "summary": "Interface, miscellaneous",
+            "Interface": {
+                "Clock face": "Modify lock screen clock appearance",
+                "Widgets": "Add widgets to lock screen",
+                "Depth wallpaper": "Enable iOS-inspired depth wallpaper. Requires a subject image.",
+                "Peek display": "Enable minimal lock screen notification style",
+                "Now bar": "Enable now bar lock screen widgets",
+                "Now bar height": "Adjust the height of the Now bar",
+                "Media cover art": "Display media cover art when available",
+                "Media cover art filter": "Set the lock screen cover art filter style",
+                "Media cover art fade level": "Set media cover art fade level",
+                "Charging stats": "Display current, voltage, wattage, and temperature stats while charging",
+                "AOD image": "Set custom AOD image",
+                "Select AOD image": "Select AOD image from gallery",
+                "Pulse": "Audio graphic equalizer for navigation bar and lock screen",
+                "Carrier name on lock screen": "Display carrier name on lock screen status bar"
+            },
+            "Weather": {
+                "Weather settings": "Setup icon pack and weather service"
+            },
+            "Fingerprint": {
+                "Ripple animation": "Show ripple animation when unlocked with fingerprint",
+                "Screen-Off UDFPS": "Keep UDFPS enabled while the screen is off",
+                "Authentication success vibration": "Vibrate when fingerprint authentication is successful",
+                "Authentication error vibration": "Vibrate when fingerprint authentication fails"
+            },
+            "Miscellaneous": {
+                "Pocket detection": "Block screen and button inputs when device is in pocket",
+                "Always on Pocket mode": "Always block screen and button inputs when screen is turned on"
+            }
+        }
+    },
+    {
+        "Status bar": {
+            "summary": "Gestures, Icons, privacy indicators",
+            "Gestures": {
+                "Brightness control": "Adjust brightness by swiping across the status bar",
+                "Quick pull down": "Pull down quicksettings with a single swipe"
+            },
+            "Icons": {
+                "Status bar tuner": "Choose which system icons can be shown",
+                "Clock & date": "Customize clock & date",
+                "Status bar lyric": "Show lyric in status bar (need app support)",
+                "Network traffic monitor": "Display and customize current network traffic levels",
+                "Ongoing progress bar chip": "Show progress bar chip in status bar which features ongoing action progress from a notification",
+                "Battery style": "Set battery style",
+                "Battery percent": "Set battery percent style",
+                "Battery percentage when charging": "Always display battery percentage when charging",
+                "Logo": "Display a custom logo on the status bar",
+                "Logo position": "Set status bar logo postion",
+                "Logo style": "Set status bar logo style",
+                "Data disabled indicator": "Display an indicator next to signal icon when data is disabled",
+                "4G icon": "Replace 'LTE' icon with '4G'",
+                "Wi-Fi standard": "Display Wi-Fi standard next the Wi-Fi icon",
+                "Bluetooth battery status": "Display battery status for the connected Bluetooth device, if available",
+                "Colored icons": "Use launcher icons for app notifications",
+                "Notification count": "Display the number of unread notifications on each app icon"
+            },
+            "Privacy indicators": {
+                "Microphone & camera": "Display an indicator when an app accesses the microphone or camera",
+                "Location": "Display an indicator when an app accesses your location",
+                "Screen projection": "Display an indicator when the screen is being projected"
+            }
+        }
+    },
+    {
+        "Quick settings": {
+            "summary": "Interface, lock screen",
+            "Brightness slider": {
+                "Brightness slider": "Choose when to show the qucksettings brightness slider",
+                "Brightness slider position": "Set the quicksettings brightness slider postion",
+                "Auto brightness icon": "Show icon toggle for adaptive brightness next to the slider",
+                "Brightness percentage": "Show brightness percentage text along with the slider"
+            },
+            "Interface": {
+                "Background transparency": "Set transparency level for QS background",
+                "Data usage": "Display data usage summary in quick settings footer",
+                "QS header image": "Select QS background header image",
+                "Compact QS media player": "Enable compact mode for QuickSettings media player",
+                "Show squiggle animation": "Show media panel squiggle animation",
+                "QS header clock style": "Set QS header clock style",
+                "Battery style": "Set quicksettings battery style",
+                "Battery percent": "Set quicksettings battery percent location",
+                "QS widgets": "Show widgets for quick access. ",
+                "QS tiles style": "Set Quicksettings tile style",
+                "QS panel style": "Set quicksettings panel style",
+                "Better landscape QS": "Enable new experimental split shade quicksettings,",
+                "Hide label": "Only show icon in tile",
+                "Label text size": "Set quick settings tile label size",
+                "Vertical layout": "Show label below icon instead next to icon",
+                "Columns & rows": "Customize QS columns and rows"
+            },
+            "Animations": {
+                "Tiles animation style": "Set the quicksttings tile animation style",
+                "Animation duration": "Set the quicksettings tile animation duration",
+                "Animation interpolator": "Set the quicksettings tile animation interpolator"
+            },
+            "Lock screen": {
+                "Hide on secure lock screen": "Hide all quick settings in the notification shade while the device is locked",
+                "Secure QS tiles require unlock": "The following quick settings require the device to be unlocked before you can interact with them:"
+            },
+            "Miscellaneous": {
+                "Bluetooth tile dialog": "Show bluetooth dialog or toggle bluetooth state on tapping bluetooth tile"
+            }
+        }
+    },
+    {
+        "Notifications": {
+            "summary": "Alerts, interface",
+            "Heads up": {
+                "Heads-up": "Display priority notifications in a small floating window",
+                "Compact heads-up": "Display notifications in compact size",
+                "Less boring": "Display popup notifications only for alarm, dialer and messaging app"
+            },
+            "Interface": {
+                "Notification icons": "Maximum notification icons visible on status bar",
+                "Alert slider notifications": "Display notification when changing alert slider position",
+                "Edge light": "Light up the side edges of the screen on notification pulse",
+                "Kill app": "Show a kill app button in the notification's longpress menu"
+            },
+            "Sounds & vibration": {
+                "Alert while display on": "Play sound and vibration for notifications while the display is on"
+            }
+        }
+    },
+    {
+        "Power menu": {
+            "summary": "Actions, lock screen",
+            "Interface": {
+                "Power menu actions": "Choose which actions are displayed"
+            },
+            "Lock screen": {
+                "Show on secure lock screen": "Show the power menu while the device is locked"
+            }
+        }
+    },
+    {
+        "Miscellaneous": {
+            "summary": "Developer options, spoofing",
+            "Spoofing": {
+                "Component spoofing": "Bypass app restrictions by spoofing components"
+            },
+            "Developer options": {
+                "Hide applist": "Prevent apps from checking selected apps from appslist",
+                "Smart Pixels": "Save battery by shutting off extra pixels",
+                "USB configuration": "Choose the default behavior when connected to a device via USB",
+                "Hide developer status": "Hide developer status from apps",
+                "No storage restrict": "Remove the restriction when selecting folders through Storage Access Framework. Can be convenient in some cases but may lead to privacy leaks.",
+                "Ignore wallpaper dimming requests": "Blocks all apps from setting the wallpaper dim",
+                "Unlimit screenrecord": "Remove the 15GiB file size limit",
+                "Hide screen capture status": "Hide screen capture and screen record status from all applications. Can be convenient in some cases but may lead to privacy leaks. Need to restart applications for the change to take effect.",
+                "Allow application downgrade": "Allow downgrading system applications, which may result in crashes and data loss",
+                "Ignore window secure flags": "Remove restrictions on screenshots and screen recordings for all applications, potentially risking privacy leaks"
+            }
+        }
+    }
+]
