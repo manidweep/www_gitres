@@ -331,6 +331,7 @@
   {
     "codename": "husky",
     "branches": [
+      "bka",
       "vic"
     ]
   },
