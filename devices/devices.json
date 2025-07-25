@@ -453,6 +453,7 @@
   {
     "codename": "panther",
     "branches": [
+      "bka",
       "vic"
     ]
   },
