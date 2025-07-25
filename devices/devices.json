@@ -246,6 +246,7 @@
   {
     "codename": "felix",
     "branches": [
+      "bka",
       "vic"
     ]
   },
