@@ -367,6 +367,7 @@
   {
     "codename": "komodo",
     "branches": [
+      "bka",
       "vic"
     ]
   },
