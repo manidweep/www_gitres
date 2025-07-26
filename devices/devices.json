@@ -610,6 +610,7 @@
   {
     "codename": "tokay",
     "branches": [
+      "bka",
       "vic"
     ]
   },
