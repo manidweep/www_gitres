@@ -166,6 +166,7 @@
   {
     "codename": "comet",
     "branches": [
+      "bka",
       "vic"
     ]
   },
