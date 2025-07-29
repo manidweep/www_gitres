@@ -27,8 +27,8 @@ ${first_time_install_instructions}
 
 [SIZE=5][B][COLOR=rgb(0, 96, 255)]Update[/COLOR][/B][/SIZE]
 [SIZE=3]1. Reboot to recovery
-2. While in recovery, navigate to Apply update -> Apply from ADB
-3. adb sideload rom.zip (replace "rom" with  actual filename)[/SIZE]
+2. While in recovery, navigate to [B]Apply update[/B] → [B]Apply from ADB[/B]
+3. [ICODE]adb sideload rom.zip[/ICODE] (replace "rom" with  actual filename)[/SIZE]
 4 (optional). Reboot to recovery to sideload any add-ons (e.g magisk)
 [SIZE=3]5. Reboot to system & #KeepEvolving
 
