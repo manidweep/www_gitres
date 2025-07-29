@@ -280,6 +280,7 @@
   {
     "codename": "gta4xlwifi",
     "branches": [
+      "bka",
       "vic"
     ]
   },
