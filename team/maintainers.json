@@ -81,6 +81,10 @@
           "codename": "comet"
         },
         {
+          "device": "Google Pixel 9a",
+          "codename": "tegu"
+        },
+        {
           "device": "Google Pixel Fold",
           "codename": "felix"
         },
