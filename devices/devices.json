@@ -607,6 +607,12 @@
     ]
   },
   {
+    "codename": "tegu",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "tissot",
     "branches": [
       "udc"
