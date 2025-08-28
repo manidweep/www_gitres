@@ -331,6 +331,16 @@
       ]
     },
     {
+      "name": "Nguyen Phong",
+      "github": "anhdat1024",
+      "currently_maintains": [
+        {
+          "device": "Samsung Galaxy A52s 5G",
+          "codename": "a52sxq"
+        }
+      ]
+    },
+    {
       "name": "Omar Mohamed (Coptan)",
       "github": "c0pt4n",
       "currently_maintains": [
@@ -457,6 +467,16 @@
       ]
     },
     {
+      "name": "Provasish Nandi",
+      "github": "provasish",
+      "currently_maintains": [
+        {
+          "device": "Realme GT Neo 3T",
+          "codename": "spartan"
+        }
+      ]
+    },
+    {
       "name": "Rondeau79",
       "github": "Rondeau79",
       "currently_maintains": [
@@ -467,6 +487,16 @@
         {
           "device": "Motorola Moto G100",
           "codename": "nio"
+        }
+      ]
+    },
+    {
+      "name": "Yogratdesuyo",
+      "github": "https://github.com/yograts-playground",
+      "currently_maintains": [
+        {
+          "device": "Xiaomi Redmi Note 11",
+          "codename": "spes"
         }
       ]
     },
@@ -521,26 +551,6 @@
         {
           "device": "Xiaomi 12",
           "codename": "cupid"
-        }
-      ]
-    },
-	{
-      "name": "Nguyen Phong",
-      "github": "anhdat1024",
-      "currently_maintains": [
-        {
-          "device": "Samsung Galaxy A52s 5G",
-          "codename": "a52sxq"
-        }
-      ]
-      },
-	{
-      "name": "Provasish Nandi",
-      "github": "provasish",
-      "currently_maintains": [
-        {
-          "device": "Realme GT Neo 3T",
-          "codename": "spartan"
         }
       ]
     }
