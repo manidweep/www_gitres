@@ -603,6 +603,12 @@
     ]
   },
   {
+    "codename": "spes",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "stone",
     "branches": [
       "udc"
