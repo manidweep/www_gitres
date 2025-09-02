@@ -24,5 +24,7 @@
     "qs_tile_animation_style": "Set the quicksttings tile animation style",
     "qs_tile_animation_duration": "Set the quicksettings tile animation duration",
     "qs_tile_animation_interpolator": "Set the quicksettings tile animation interpolator",
-    "ls_media_art_filter": "Set the lock screen cover art filter style"
+    "ls_media_art_filter": "Set the lock screen cover art filter style",
+    "qs_brightness_slider_shape": "Set the brightness slider shape",
+    "qs_tile_shape": "Set the quick settings tile shape"
 }

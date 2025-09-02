@@ -6,6 +6,7 @@
                 "Monet settings": "Customize Android's built-in theme engine"
             },
             "General": {
+                "Notification row transparency": "Show translucent quicksettings notifications",
                 "Notification style": "Set notification style",
                 "Power menu style": "Set power menu style",
                 "Progress bar style": "Set progress bar style"
@@ -25,12 +26,15 @@
                 "Icon shape": "Set system icon shape",
                 "Signal icon": "Set signal icon style",
                 "Wi-Fi icon": "Set Wi-Fi icon style",
-                "Navigation bar icons": "Set navigation bar icon style"
+                "Navigation bar icons": "Set navigation bar icon style",
+                "UDFPS icon": "Set UDFPS icon style"
             },
             "Animations": {
                 "Boot animation": "Set boot animation style",
+                "AOD wallpaper": "Show wallpaper when aod on",
                 "Charging animation": "Display an animation when the device is plugged in",
-                "Screen off animation": "Set screen off animation"
+                "Screen off animation": "Set screen off animation",
+                "UDFPS animation": "Set UDFPS animation style"
             }
         }
     },
@@ -39,6 +43,9 @@
             "summary": "Interface, miscellaneous",
             "Interface": {
                 "Media cover art": "Display media cover art when available",
+                "Media cover art filter": "Set the lock screen cover art filter style",
+                "Media cover art fade level": "Set media cover art fade level",
+                "Media art blur level": "Blur intensity when blur filter is applied",
                 "Charging stats": "Display current, voltage, wattage, and temperature stats while charging",
                 "Pulse": "Audio graphic equalizer for navigation bar and lock screen",
                 "Carrier name on lock screen": "Display carrier name on lock screen status bar"
@@ -47,6 +54,9 @@
                 "Ripple animation": "Show ripple animation when unlocked with fingerprint",
                 "Authentication success vibration": "Vibrate when fingerprint authentication is successful",
                 "Authentication error vibration": "Vibrate when fingerprint authentication fails"
+            },
+            "Miscellaneous": {
+                "Keyguard affordance single tap": "Toggle keyguard affordances with a single tap"
             }
         }
     },
@@ -62,6 +72,7 @@
                 "Clock & date": "Customize clock & date",
                 "Network traffic monitor": "Display and customize current network traffic levels",
                 "Status bar action chip": "Status bar action chip options",
+                "Battery bar": "Display and customize battery bar above status bar",
                 "Battery style": "Set battery style",
                 "Battery percent": "Set battery percent style",
                 "Battery percentage when charging": "Always display battery percentage when charging",
@@ -71,7 +82,9 @@
                 "Data disabled indicator": "Display an indicator next to signal icon when data is disabled",
                 "4G icon": "Replace 'LTE' icon with '4G'",
                 "Wi-Fi standard": "Display Wi-Fi standard next the Wi-Fi icon",
-                "Bluetooth battery status": "Display battery status for the connected Bluetooth device, if available"
+                "Bluetooth battery status": "Display battery status for the connected Bluetooth device, if available",
+                "Colored icons": "Use launcher icons for app notifications",
+                "Notification count": "Display the number of unread notifications on each app icon"
             },
             "Privacy indicators": {
                 "Microphone & camera": "Display an indicator when an app accesses the microphone or camera",
@@ -83,10 +96,21 @@
     {
         "Quick settings": {
             "summary": "Interface, lock screen",
+            "Brightness slider": {
+                "Brightness slider": "Choose when to show the qucksettings brightness slider",
+                "Brightness slider shape": "Set the brightness slider shape",
+                "Brightness slider position": "Set the quicksettings brightness slider postion",
+                "Haptic feedback": "Provide haptic feedback on changing brightness using slider",
+                "Auto brightness icon": "Show icon toggle for adaptive brightness next to the slider"
+            },
             "Interface": {
+                "Data usage": "Display data usage summary in quick settings footer",
+                "QS header image": "Select QS background header image",
+                "Compact QS media player": "Enable compact mode for QuickSettings media player",
                 "Show squiggle animation": "Show media panel squiggle animation",
                 "Battery style": "Set quicksettings battery style",
-                "Battery percent": "Set quicksettings battery percent location"
+                "Battery percent": "Set quicksettings battery percent location",
+                "QS tiles shape": "Set the quick settings tile shape"
             },
             "Lock screen": {
                 "Swipe down on LS to view QS": "Enable or disable quicksettings on lockscreen"
@@ -102,10 +126,12 @@
             "Heads up": {
                 "Heads-up": "Display priority notifications in a small floating window",
                 "Compact heads-up": "Display notifications in compact size",
+                "Small landscape notifications": "Shows notifications smaller in width in notification panel in landscape mode just as AOSP intended",
                 "Less boring": "Display popup notifications only for alarm, dialer and messaging app"
             },
             "Interface": {
-                "Alert slider notifications": "Display notification when changing alert slider position"
+                "Alert slider notifications": "Display notification when changing alert slider position",
+                "Edge light": "Light up the side edges of the screen on notification pulse"
             },
             "Sounds & vibration": {
                 "Alert while display on": "Play sound and vibration for notifications while the display is on"
