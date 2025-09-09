@@ -607,13 +607,16 @@
   {
     "codename": "spartan",
     "branches": [
-      "bka"
+      "bka",
+      "vic"
     ]
   },
   {
     "codename": "spes",
     "branches": [
-      "bka"
+      "bka",
+      "vic",
+      "vic-vanilla"
     ]
   },
   {
