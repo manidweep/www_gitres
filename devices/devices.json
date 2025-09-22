@@ -20,6 +20,12 @@
     ]
   },
   {
+    "codename": "a71",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "akita",
     "branches": [
       "bka",
@@ -607,6 +613,12 @@
       "bka",
       "vic",
       "udc"
+    ]
+  },
+  {
+    "codename": "salaa",
+    "branches": [
+      "bka"
     ]
   },
   {
