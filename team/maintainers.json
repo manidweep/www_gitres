@@ -95,6 +95,16 @@
       ]
     },
     {
+      "name": "Ansh (EvilAnsh)",
+      "github": "EvilAnsh",
+      "currently_maintains": [
+        {
+          "device": "Realme  6 / 6i(Indian) / 6s / Narzo",
+          "codename": "nemo"
+        }
+      ]
+    },
+    {
       "name": "BaranAspect",
       "github": "AspectPower",
       "currently_maintains": [
@@ -121,6 +131,10 @@
         {
           "device": "Motorola Defy 2021",
           "codename": "bathena"
+        },
+        {
+          "device": "Motorola Edge 2021",
+          "codename": "berlna"
         },
         {
           "device": "Motorola Edge 30",
@@ -163,6 +177,10 @@
           "codename": "rhode"
         },
         {
+          "device": "Motorola Moto G53 5G, G53j 5G, G53s 5G & G53y 5G",
+          "codename": "penang"
+        },
+        {
           "device": "Motorola Moto G6 Plus",
           "codename": "evert"
         },
@@ -183,12 +201,24 @@
           "codename": "ocean"
         },
         {
+          "device": "Motorola Moto G82 5G & G71s",
+          "codename": "rhodep"
+        },
+        {
+          "device": "Motorola Moto G84 5G",
+          "codename": "bangkk"
+        },
+        {
           "device": "Motorola Moto G9 & G9 Play / Lenovo K12 Note",
           "codename": "guamp"
         },
         {
           "device": "Motorola Moto G9 Power / Lenovo K12 Pro",
           "codename": "cebu"
+        },
+        {
+          "device": "Motorola Moto X4",
+          "codename": "payton"
         },
         {
           "device": "Motorola Moto Z3 Play",
@@ -218,6 +248,10 @@
       "name": "Giovanni (TechPanelGM)",
       "github": "TechPanelGM",
       "currently_maintains": [
+        {
+          "device": "OnePlus 9 Pro",
+          "codename": "lemonadep"
+        },
         {
           "device": "Xiaomi Mi 10",
           "codename": "umi"
@@ -492,10 +526,10 @@
     },
     {
       "name": "Yogratdesuyo",
-      "github": "https://github.com/yograts-playground",
+      "github": "yograts-playground",
       "currently_maintains": [
         {
-          "device": "Xiaomi Redmi Note 11",
+          "device": "redmi spes,spesn",
           "codename": "spes"
         }
       ]
