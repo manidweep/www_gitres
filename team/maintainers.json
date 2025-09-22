@@ -101,6 +101,10 @@
         {
           "device": "Realme  6 / 6i(Indian) / 6s / Narzo",
           "codename": "nemo"
+        },
+        {
+          "device": "Realme 7 / Narzo 20 Pro / Narzo 30 4G",
+          "codename": "salaa"
         }
       ]
     },
@@ -319,6 +323,16 @@
       ]
     },
     {
+      "name": "Manh Dung (intelgigabyte9299)",
+      "github": "intelgigabyte",
+      "currently_maintains": [
+        {
+          "device": "Samsung Galaxy A71 4G",
+          "codename": "a71"
+        }
+      ]
+    },
+    {
       "name": "Manidweep",
       "github": "manidweep",
       "currently_maintains": [
@@ -526,7 +540,7 @@
     },
     {
       "name": "Yogratdesuyo",
-      "github": "yograts-playground",
+      "github": "https://github.com/yograts-playground",
       "currently_maintains": [
         {
           "device": "redmi spes,spesn",
