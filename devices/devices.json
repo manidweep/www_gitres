@@ -34,6 +34,12 @@
     ]
   },
   {
+    "codename": "bangkk",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "bathena",
     "branches": [
       "vic"
@@ -41,6 +47,12 @@
   },
   {
     "codename": "beckham",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "berlna",
     "branches": [
       "vic"
     ]
@@ -271,6 +283,8 @@
   {
     "codename": "garnet",
     "branches": [
+      "bka",
+      "bka-vanilla",
       "vic",
       "vic-vanilla",
       "udc"
@@ -402,6 +416,12 @@
     ]
   },
   {
+    "codename": "lemonadep",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "lemonades",
     "branches": [
       "vic",
@@ -457,6 +477,12 @@
     ]
   },
   {
+    "codename": "nemo",
+    "branches": [
+      "bka"
+    ]
+  },
+  {
     "codename": "nio",
     "branches": [
       "vic",
@@ -480,6 +506,18 @@
     "codename": "panther",
     "branches": [
       "bka",
+      "vic"
+    ]
+  },
+  {
+    "codename": "payton",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
+    "codename": "penang",
+    "branches": [
       "vic"
     ]
   },
@@ -546,6 +584,12 @@
     ]
   },
   {
+    "codename": "rhodep",
+    "branches": [
+      "vic"
+    ]
+  },
+  {
     "codename": "river",
     "branches": [
       "vic"
@@ -560,6 +604,7 @@
   {
     "codename": "rubyx",
     "branches": [
+      "bka",
       "vic",
       "udc"
     ]
