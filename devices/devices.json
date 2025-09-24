@@ -8,6 +8,7 @@
   {
     "codename": "Pong",
     "branches": [
+      "bka",
       "vic",
       "udc",
       "udc-vanilla"
