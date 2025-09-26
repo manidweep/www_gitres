@@ -1,7 +1,7 @@
 [
     {
         "Themes": {
-            "summary": "Monet, fonts, icons",
+            "summary": "Monet engine, UI styles, fonts, icon packs",
             "Monet": {
                 "Monet settings": "Customize Android's built-in theme engine"
             },
@@ -40,18 +40,20 @@
     },
     {
         "Lock screen": {
-            "summary": "Interface, miscellaneous",
+            "summary": "Interface, fingerprint, miscellaneous",
             "Interface": {
                 "Media cover art": "Display media cover art when available",
                 "Media cover art filter": "Set the lock screen cover art filter style",
                 "Media cover art fade level": "Set media cover art fade level",
                 "Media art blur level": "Blur intensity when blur filter is applied",
                 "Charging stats": "Display current, voltage, wattage, and temperature stats while charging",
+                "Lock screen charging time": "Display the remaining time for charging to finish",
                 "Pulse": "Audio graphic equalizer for navigation bar and lock screen",
                 "Carrier name on lock screen": "Display carrier name on lock screen status bar"
             },
             "Fingerprint": {
                 "Ripple animation": "Show ripple animation when unlocked with fingerprint",
+                "Screen-Off UDFPS": "Keep UDFPS enabled while the screen is off",
                 "Authentication success vibration": "Vibrate when fingerprint authentication is successful",
                 "Authentication error vibration": "Vibrate when fingerprint authentication fails"
             },
@@ -62,7 +64,7 @@
     },
     {
         "Status bar": {
-            "summary": "Gestures, Icons, privacy indicators",
+            "summary": "Gestures, icons",
             "Gestures": {
                 "Brightness control": "Adjust brightness by swiping across the status bar",
                 "Quick pull down": "Pull down quicksettings with a single swipe"
@@ -76,32 +78,26 @@
                 "Battery style": "Set battery style",
                 "Battery percent": "Set battery percent style",
                 "Battery percentage when charging": "Always display battery percentage when charging",
-                "Logo": "Display a custom logo on the status bar",
-                "Logo position": "Set status bar logo postion",
-                "Logo style": "Set status bar logo style",
-                "Data disabled indicator": "Display an indicator next to signal icon when data is disabled",
-                "4G icon": "Replace 'LTE' icon with '4G'",
-                "Wi-Fi standard": "Display Wi-Fi standard next the Wi-Fi icon",
                 "Bluetooth battery status": "Display battery status for the connected Bluetooth device, if available",
                 "Colored icons": "Use launcher icons for app notifications",
                 "Notification count": "Display the number of unread notifications on each app icon"
             },
-            "Privacy indicators": {
-                "Microphone & camera": "Display an indicator when an app accesses the microphone or camera",
-                "Location": "Display an indicator when an app accesses your location",
-                "Screen projection": "Display an indicator when the screen is being projected"
+            "Logo": {
+                "Logo": "Display a custom logo on the status bar",
+                "Logo position": "Set status bar logo postion",
+                "Logo style": "Set status bar logo style"
             }
         }
     },
     {
         "Quick settings": {
-            "summary": "Interface, lock screen",
+            "summary": "Brightness slider, interface, lock screen",
             "Brightness slider": {
                 "Brightness slider": "Choose when to show the qucksettings brightness slider",
                 "Brightness slider shape": "Set the brightness slider shape",
                 "Brightness slider position": "Set the quicksettings brightness slider postion",
-                "Haptic feedback": "Provide haptic feedback on changing brightness using slider",
-                "Auto brightness icon": "Show icon toggle for adaptive brightness next to the slider"
+                "Auto brightness icon": "Show icon toggle for adaptive brightness next to the slider",
+                "Haptic feedback": "Provide haptic feedback on changing brightness using slider"
             },
             "Interface": {
                 "Data usage": "Display data usage summary in quick settings footer",
@@ -110,7 +106,9 @@
                 "Show squiggle animation": "Show media panel squiggle animation",
                 "Battery style": "Set quicksettings battery style",
                 "Battery percent": "Set quicksettings battery percent location",
-                "QS tiles shape": "Set the quick settings tile shape"
+                "QS tiles shape": "Set the quick settings tile shape",
+                "Columns & rows": "Customize QS columns and rows",
+                "Haptic feedback": "Provide haptic feedback on tapping QS tiles"
             },
             "Lock screen": {
                 "Swipe down on LS to view QS": "Enable or disable quicksettings on lockscreen"
@@ -122,16 +120,16 @@
     },
     {
         "Notifications": {
-            "summary": "Alerts, interface",
+            "summary": "Heads up, interface",
             "Heads up": {
                 "Heads-up": "Display priority notifications in a small floating window",
                 "Compact heads-up": "Display notifications in compact size",
-                "Small landscape notifications": "Shows notifications smaller in width in notification panel in landscape mode just as AOSP intended",
                 "Less boring": "Display popup notifications only for alarm, dialer and messaging app"
             },
             "Interface": {
                 "Alert slider notifications": "Display notification when changing alert slider position",
-                "Edge light": "Light up the side edges of the screen on notification pulse"
+                "Edge light": "Light up the side edges of the screen on notification pulse",
+                "Small landscape notifications": "Shows notifications smaller in width in notification panel in landscape mode just as AOSP intended"
             },
             "Sounds & vibration": {
                 "Alert while display on": "Play sound and vibration for notifications while the display is on"
@@ -152,19 +150,23 @@
     {
         "Miscellaneous": {
             "summary": "Developer options, spoofing",
+            "System haptics": {
+                "System haptics": "Modify system haptics intensities"
+            },
             "Spoofing": {
-                "Component spoofing": "Bypass app restrictions by spoofing components"
+                "Component spoofing": "Bypass app restrictions by spoofing components",
+                "Hide applist": "Prevent apps from checking selected apps from appslist",
+                "Hide developer status": "Hide developer status from apps",
+                "Hide screen capture status": "Hide screen capture/record status from apps. Useful but may risk privacy. Restart apps to apply."
             },
             "Developer options": {
-                "Hide applist": "Prevent apps from checking selected apps from appslist",
+                "Smart Pixels": "Save battery by shutting off extra pixels",
                 "USB configuration": "Choose the default behavior when connected to a device via USB",
-                "Hide developer status": "Hide developer status from apps",
                 "No storage restrict": "Remove the restriction when selecting folders through Storage Access Framework. Can be convenient in some cases but may lead to privacy leaks.",
                 "Ignore wallpaper dimming requests": "Blocks all apps from setting the wallpaper dim",
                 "Unlimit screenrecord": "Remove the 15GiB file size limit",
-                "Hide screen capture status": "Hide screen capture/record status from apps. Useful but may risk privacy. Restart apps to apply.",
-                "Allow application downgrade": "Allow downgrading system applications, which may result in crashes and data loss",
-                "Ignore window secure flags": "Remove restrictions on screenshots and screen recordings for all applications, potentially risking privacy leaks"
+                "Ignore window secure flags": "Remove restrictions on screenshots and screen recordings for all applications, potentially risking privacy leaks",
+                "Allow application downgrade": "Allow downgrading system applications, which may result in crashes and data loss"
             }
         }
     }
