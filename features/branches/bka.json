@@ -56,9 +56,6 @@
                 "Screen-Off UDFPS": "Keep UDFPS enabled while the screen is off",
                 "Authentication success vibration": "Vibrate when fingerprint authentication is successful",
                 "Authentication error vibration": "Vibrate when fingerprint authentication fails"
-            },
-            "Miscellaneous": {
-                "Keyguard affordance single tap": "Toggle keyguard affordances with a single tap"
             }
         }
     },
@@ -96,8 +93,8 @@
                 "Brightness slider": "Choose when to show the qucksettings brightness slider",
                 "Brightness slider shape": "Set the brightness slider shape",
                 "Brightness slider position": "Set the quicksettings brightness slider postion",
-                "Auto brightness icon": "Show icon toggle for adaptive brightness next to the slider",
-                "Haptic feedback": "Provide haptic feedback on changing brightness using slider"
+                "Haptic feedback": "Provide haptic feedback on changing brightness using slider",
+                "Auto brightness icon": "Show icon toggle for adaptive brightness next to the slider"
             },
             "Interface": {
                 "Data usage": "Display data usage summary in quick settings footer",
@@ -111,7 +108,7 @@
                 "Haptic feedback": "Provide haptic feedback on tapping QS tiles"
             },
             "Lock screen": {
-                "Swipe down on LS to view QS": "Enable or disable quicksettings on lockscreen"
+                "QS on lock screen": "Allow swipe down on lock screen to view Quick Settings"
             },
             "Miscellaneous": {
                 "Bluetooth tile dialog": "Show bluetooth dialog or toggle bluetooth state on tapping bluetooth tile"
@@ -127,9 +124,9 @@
                 "Less boring": "Display popup notifications only for alarm, dialer and messaging app"
             },
             "Interface": {
+                "Small landscape notifications": "Shows notifications smaller in width in notification panel in landscape mode just as AOSP intended",
                 "Alert slider notifications": "Display notification when changing alert slider position",
-                "Edge light": "Light up the side edges of the screen on notification pulse",
-                "Small landscape notifications": "Shows notifications smaller in width in notification panel in landscape mode just as AOSP intended"
+                "Edge light": "Light up the side edges of the screen on notification pulse"
             },
             "Sounds & vibration": {
                 "Alert while display on": "Play sound and vibration for notifications while the display is on"
@@ -165,8 +162,8 @@
                 "No storage restrict": "Remove the restriction when selecting folders through Storage Access Framework. Can be convenient in some cases but may lead to privacy leaks.",
                 "Ignore wallpaper dimming requests": "Blocks all apps from setting the wallpaper dim",
                 "Unlimit screenrecord": "Remove the 15GiB file size limit",
-                "Ignore window secure flags": "Remove restrictions on screenshots and screen recordings for all applications, potentially risking privacy leaks",
-                "Allow application downgrade": "Allow downgrading system applications, which may result in crashes and data loss"
+                "Allow application downgrade": "Allow downgrading system applications, which may result in crashes and data loss",
+                "Ignore window secure flags": "Remove restrictions on screenshots and screen recordings for all applications, potentially risking privacy leaks"
             }
         }
     }
