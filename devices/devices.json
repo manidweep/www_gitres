@@ -387,6 +387,7 @@
   {
     "codename": "instantnoodle",
     "branches": [
+      "bka",
       "vic",
       "udc"
     ]
@@ -394,6 +395,7 @@
   {
     "codename": "instantnoodlep",
     "branches": [
+      "bka",
       "vic",
       "udc"
     ]
@@ -407,6 +409,7 @@
   {
     "codename": "kebab",
     "branches": [
+      "bka",
       "vic",
       "udc"
     ]
@@ -439,6 +442,7 @@
   {
     "codename": "lemonades",
     "branches": [
+      "bka",
       "vic",
       "udc"
     ]
@@ -488,7 +492,8 @@
   {
     "codename": "monet",
     "branches": [
-      "vic"
+      "vic",
+      "vic-vanilla"
     ]
   },
   {
