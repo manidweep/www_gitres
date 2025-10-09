@@ -143,6 +143,13 @@
     ]
   },
   {
+    "codename": "bramble",
+    "branches": [
+      "vic",
+      "vic-vanilla"
+    ]
+  },
+  {
     "codename": "caiman",
     "branches": [
       "bka",
@@ -590,6 +597,13 @@
     ]
   },
   {
+    "codename": "redfin",
+    "branches": [
+      "vic",
+      "vic-vanilla"
+    ]
+  },
+  {
     "codename": "redwood",
     "branches": [
       "bka",
@@ -699,6 +713,8 @@
   {
     "codename": "sunfish",
     "branches": [
+      "vic",
+      "vic-vanilla",
       "udc"
     ]
   },
