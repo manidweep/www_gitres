@@ -109,6 +109,24 @@
       ]
     },
     {
+      "name": "Apelete Seketeli",
+      "github": "apelete",
+      "currently_maintains": [
+        {
+          "device": "Google Pixel 4a",
+          "codename": "sunfish"
+        },
+        {
+          "device": "Google Pixel 4a 5G",
+          "codename": "bramble"
+        },
+        {
+          "device": "Google Pixel 5",
+          "codename": "redfin"
+        }
+      ]
+    },
+    {
       "name": "BaranAspect",
       "github": "AspectPower",
       "currently_maintains": [
