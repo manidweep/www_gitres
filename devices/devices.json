@@ -728,6 +728,7 @@
   {
     "codename": "tangorpro",
     "branches": [
+      "bka",
       "vic"
     ]
   },
